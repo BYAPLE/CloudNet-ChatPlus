@@ -1,0 +1,10 @@
+name: CloudNet-ChatPlus
+version: ${project.version}
+main: de.byaple.chatplus.CloudNetChatPlusPlugin
+api-version: 1.14
+prefix: ChatPlus
+load: STARTUP
+depend: [PlaceholderAPI]
+authors: [KeksGauner]
+description: Erweitetertes Plugin vom CloudNet-Chat Plugin
+website: www.byaple.de

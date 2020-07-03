@@ -1,0 +1,15 @@
+# CloudNet Placeholders:
+# %group% - Der Name der höchsten Gruppe des Spielers. 
+# %display% - Die Anzeige der höchsten Gruppe des Spielers.
+# %prefix% - Die Prefix der höchsten Gruppe des Spielers. 
+# %suffix% - Die Suffix der höchsten Gruppe des Spielers. 
+# %color% - Die Farbe der höchsten Gruppe des Spielers. 
+# %name% - Der Name des Spielers.
+# %uniqueId% - Die UUID des Spielers
+# %message% - Die Naricht von dem Spieler.
+
+# Und PlaceholderAPI Placeholder.
+
+# Die Permission um "&" in narichten zu nutzen: cloudnet.chat.color 
+
+format: "%display%%name% &8:&f %message%"
