@@ -14,7 +14,7 @@ _____________________________________________________
 * **✔** Requires PlaceholderAPI:
 * [https://www.spigotmc.org/resources/placeholderapi.6245/](https://www.spigotmc.org/resources/placeholderapi.6245/)
 
-## Einrichtung
+## Setup
 1. download the file.
 2. move the file into the plugin's folder of your subserver.
 3. restart the server.
